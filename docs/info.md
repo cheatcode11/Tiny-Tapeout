@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-  Test project to help understand the software
+Simple full adder imnplementation. 
+Three inputs and two outputs
 
 ## How to test
 
-Test project to help understand the software
+Run all eight test cases duh
 
 ## External hardware
 
-Test project to help understand the software
+Its very simple, not necessary.
